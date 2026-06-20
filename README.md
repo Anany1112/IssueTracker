@@ -1,4 +1,4 @@
 # IssueTracker
 This is Issue Tracker application.
 <br>
-Author - Ananya Misra
+Author - Ananya Misra(Aplha)
